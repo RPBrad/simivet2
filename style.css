@@ -1,0 +1,42 @@
+/*
+Theme Name:  SimiVetCare Full Home
+Author:  Robert Bradford
+
+Description:  WordPress Theme for SimiVetCare.com
+
+*/
+
+html, body {
+	padding: 0px;
+	margin: 0px;
+}
+#intro h1, #intro p {
+    color: #fff;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+span.big-h1 {
+    font-size: 180px;
+}
+#intro {
+    position: relative;
+    width: 100%;
+    height: 94vh;
+    display: flex;
+    align-items: center;
+}
+.intro-1 {
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.intro-content {
+	width:100%;
+}
+#stick_navbar {
+	width:100%;
+}
